@@ -30,7 +30,7 @@ Please take a look at [contributing guidelines](CONTRIBUTING.md) if you are cons
 
 ## Contributors
 
-* **[Pratik Borsadiya](http://pratikborsadiya.in)** - *Project Author*
+* **[Rachael Smith](No link here)** - *Project Author*
 * **List of [contributors](https://github.com/pratikborsadiya/vali-admin/graphs/contributors)** who participated in this project.
 
 ## License
